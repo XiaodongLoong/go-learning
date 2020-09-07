@@ -1,5 +1,5 @@
-
-GLOBL ·NameData(SB),$8
+#include "textflag.h"
+GLOBL ·NameData(SB),NOPTR,$8
 DATA  ·NameData(SB)/8,$"gopher"
 
 GLOBL ·Name(SB),$16
