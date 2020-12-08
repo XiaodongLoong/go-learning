@@ -1,0 +1,3 @@
+cannot find package "2" in any of:
+	/usr/local/go/src/2 (from $GOROOT)
+	/home/loongson/go1903-11/go/src/2 (from $GOPATH)
